@@ -233,3 +233,8 @@ Performance/ReverseEach:
 
 Performance/UnfreezeString:
   Enabled: true
+
+Layout/LineLength:
+  Enabled: true
+  AutoCorrect: true
+  Max: 120
