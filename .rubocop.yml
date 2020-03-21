@@ -238,3 +238,6 @@ Layout/LineLength:
   Enabled: true
   AutoCorrect: true
   Max: 120
+
+Layout/ClassStructure:
+  Enabled: true
